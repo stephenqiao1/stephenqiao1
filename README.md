@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/stephenqiao1](https://github.com/stephenqiao1)
 
-- 💬 Ask me about **react, C, Javascript, or some engineering concepts!**
+- 💬 Ask me about **React, C, Javascript, or some engineering concepts!**
 
 - 📫 How to reach me **stephenqiao123@gmail.com**
 
