@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Stephen Qiao</h1>
 <h3 align="center">I am an electrical engineering student at UBC, situated in Vancouver, BC. I am also a passionate self-taught developer and interested in Simulations and working with new technology.</h3>
 
-- 🔭 I’m currently working on [Prodoro](prodoro.co)
+- 🔭 I’m currently working on [Prodoro](https://prodoro.co)
 
 - 🌱 I’m currently learning **Next.js, Firebase, Python**
 
