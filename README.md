@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Prodoro](https://prodoro.co)
 
-- 🌱 I’m currently learning **Next.js, Firebase, Python**
+- 🌱 I’m currently learning **Node.js, Deep Learning, Python**
 
 - 👯 I’m looking to collaborate on [Prodoro](prodoro.co)
 
@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/stephenqiao1](https://github.com/stephenqiao1)
 
-- 💬 Ask me about **React, C, Javascript, or some engineering concepts!**
+- 💬 Ask me about **React, C, Javascript, Node.JS, or some engineering concepts!**
 
 - 📫 How to reach me **stephenqiao123@gmail.com**
 
