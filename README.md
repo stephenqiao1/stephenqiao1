@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Stephen Qiao</h1>
 <h3 align="center">I am an electrical engineering student at UBC, situated in Vancouver, BC. I am also a passionate self-taught developer and interested in Simulations and working with new technology.</h3>
 
-- 🔭 I’m currently working on [Prodoro](https://prodoro.co)
+- 🔭 I’m currently working on [Prodoro](https://prodoro.io)
 
 - 🌱 I’m currently learning **Node.js, Deep Learning, Python**
 
-- 👯 I’m looking to collaborate on [Prodoro](prodoro.co)
+- 👯 I’m looking to collaborate on [Prodoro](prodoro.io)
 
-- 🤝 I’m looking for help with [Prodoro](prodoro.co)
+- 🤝 I’m looking for help with [Prodoro](prodoro.io)
 
 - 👨‍💻 All of my projects are available at [https://github.com/stephenqiao1](https://github.com/stephenqiao1)
 
