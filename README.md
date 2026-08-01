@@ -15,10 +15,7 @@
 
 ### 🧑‍💻 About me
 
-- 🎓 Recently graduated in **Electrical Engineering** at UBC — now `<your role>` at `<your company>`
-- 🔭 Currently building **[Prodoro](https://prodoro.io)** — plus a few side projects: `<project 1>`, `<project 2>`
-- 🌱 Learning **Node.js, Python, and deep learning**
-- 👯 Open to collaborating on **[Prodoro](https://prodoro.io)** — and always happy to help with, or get help on, anything in it
+- 🎓 Recently graduated in **Electrical Engineering** at UBC
 - 💬 Ask me about **React, TypeScript, C, Node.js**, or some engineering concepts
 - 📫 Reach me at **stephenqiao123@gmail.com**
 
